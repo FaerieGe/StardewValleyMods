@@ -1,0 +1,10 @@
+{
+    "Name": "Aging",
+    "Author": "FaerieGe",
+    "Version": "0.1.0",
+    "Description": "Enables aging within Stardew Valley",
+    "UniqueID": "FaerieGe.Aging",
+    "EntryDll": "Aging.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
